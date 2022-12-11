@@ -11,7 +11,7 @@
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",
     "dotenv": "^8.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mailgen": "^2.0.8"
   },
   "devDependencies": {
